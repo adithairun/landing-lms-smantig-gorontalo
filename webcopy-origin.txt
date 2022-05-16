@@ -1,0 +1,464 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\ajax\libs\jquery\3.2.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\gh\mcstudios\glightbox\dist\js\glightbox.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@srexi/purecounterjs/dist/purecounter_vanilla.js
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\npm\@srexi\purecounterjs\dist\purecounter_vanilla.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\npm\glightbox\dist\css\glightbox.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/owl.carousel@2.3.4/dist/assets/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\npm\owl.carousel@2.3.4\dist\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/owl.carousel@2.3.4/dist/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\npm\owl.carousel@2.3.4\dist\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/npm/owl.carousel@2.3.4/dist/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\npm\owl.carousel@2.3.4\dist\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\npm\remixicon@2.2.0\fonts\remixicon.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.eot?t=1578671877458
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\npm\remixicon@2.2.0\fonts\remixicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.svg?t=1578671877458
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\npm\remixicon@2.2.0\fonts\remixicon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.ttf?t=1578671877458
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\npm\remixicon@2.2.0\fonts\remixicon.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.woff2?t=1578671877458
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\npm\remixicon@2.2.0\fonts\remixicon.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.woff?t=1578671877458
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\npm\remixicon@2.2.0\fonts\remixicon.woff
+Content Type: font/woff
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\ajax\libs\animate.css\4.1.1\animate.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\ajax\libs\aos\2.3.4\aos.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\ajax\libs\aos\2.3.4\aos.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.5.0/font/bootstrap-icons.min.css
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\ajax\libs\bootstrap-icons\1.5.0\font\bootstrap-icons.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.5.0/font/fonts/bootstrap-icons.woff2?856008caa5eb66df68595e734e59580d
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\ajax\libs\bootstrap-icons\1.5.0\font\fonts\bootstrap-icons.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.5.0/font/fonts/bootstrap-icons.woff?856008caa5eb66df68595e734e59580d
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\ajax\libs\bootstrap-icons\1.5.0\font\fonts\bootstrap-icons.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\ajax\libs\Counter-Up\1.0.0\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\ajax\libs\jquery.isotope\3.0.6\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.7.1/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\ajax\libs\Swiper\6.7.1\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.7.1/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\ajax\libs\Swiper\6.7.1\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\ajax\libs\twitter-bootstrap\4.6.0\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\ajax\libs\twitter-bootstrap\4.6.0\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/venobox/1.9.3/venobox.min.css
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\ajax\libs\venobox\1.9.3\venobox.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/venobox/1.9.3/venobox.min.js
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\ajax\libs\venobox\1.9.3\venobox.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/noframework.waypoints.min.js
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\ajax\libs\waypoints\4.0.1\noframework.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunito/v24/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\nunito\v24\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v24/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\nunito\v24\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v24/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\nunito\v24\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v24/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\nunito\v24\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v24/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\nunito\v24\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNi83AHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v24/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\nunito\v24\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNic3cHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v24/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\nunito\v24\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNirXAHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v24/XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\nunito\v24\XRXK3I6Li01BKofIMPyPbj8d7IEAGXNiSncHjabf.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\opensans\v29\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\opensans\v29\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\opensans\v29\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\opensans\v29\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v29/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\opensans\v29\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://platform.twitter.com/widgets.js
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\widgets.js
+Content Type: application/javascript
+
+Uri: https://sscasn.bkn.go.id/
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\index.htm
+Content Type: text/html
+
+Uri: https://sscasn.bkn.go.id/alur
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\alur.html
+Content Type: text/html
+
+Uri: https://sscasn.bkn.go.id/assets/css/style.css
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\css\style.css
+Content Type: text/css
+
+Uri: https://sscasn.bkn.go.id/assets/img/alur/Alur Seleksi CPNS.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\alur\Alur Seleksi CPNS.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/alur/Alur Seleksi PPPK Guru.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\alur\Alur Seleksi PPPK Guru.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/alur/Alur Seleksi PPPK.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\alur\Alur Seleksi PPPK.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/alur/berhasil.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\alur\berhasil.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/alur/berhasil1.jpg
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\alur\berhasil1.jpg
+Content Type: image/jpeg
+
+Uri: https://sscasn.bkn.go.id/assets/img/alur/berhasill2.jpg
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\alur\berhasill2.jpg
+Content Type: image/jpeg
+
+Uri: https://sscasn.bkn.go.id/assets/img/alur/daftar.jpg
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\alur\daftar.jpg
+Content Type: image/jpeg
+
+Uri: https://sscasn.bkn.go.id/assets/img/alur/daftar1.jpg
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\alur\daftar1.jpg
+Content Type: image/jpeg
+
+Uri: https://sscasn.bkn.go.id/assets/img/alur/daftar2.jpg
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\alur\daftar2.jpg
+Content Type: image/jpeg
+
+Uri: https://sscasn.bkn.go.id/assets/img/alur/pilih.jpg
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\alur\pilih.jpg
+Content Type: image/jpeg
+
+Uri: https://sscasn.bkn.go.id/assets/img/alur/pilih2.jpg
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\alur\pilih2.jpg
+Content Type: image/jpeg
+
+Uri: https://sscasn.bkn.go.id/assets/img/alur/skb.jpg
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\alur\skb.jpg
+Content Type: image/jpeg
+
+Uri: https://sscasn.bkn.go.id/assets/img/alur/skb2.jpg
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\alur\skb2.jpg
+Content Type: image/jpeg
+
+Uri: https://sscasn.bkn.go.id/assets/img/alur/skd cpns.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\alur\skd cpns.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/alur/skt1.jpg
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\alur\skt1.jpg
+Content Type: image/jpeg
+
+Uri: https://sscasn.bkn.go.id/assets/img/alur/skt2.jpg
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\alur\skt2.jpg
+Content Type: image/jpeg
+
+Uri: https://sscasn.bkn.go.id/assets/img/bg-1.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\bg-1.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/faviconx.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\faviconx.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/footer/bsre.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\footer\bsre.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/footer/cat.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\footer\cat.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/footer/dikbud.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\footer\dikbud.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/footer/mendagri.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\footer\mendagri.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/footer/menkes.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\footer\menkes.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/footer/sscasn.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\footer\sscasn.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/hero-bg.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\hero-bg.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/hero-bg2.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\hero-bg2.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/image20.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\image20.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/sscasn.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\sscasn.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/testimonials/asn.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\testimonials\asn.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/testimonials/p3k.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\testimonials\p3k.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/testimonials/pns.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\testimonials\pns.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/testimonials/ppt.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\testimonials\ppt.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/timeline/1.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\timeline\1.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/timeline/2.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\timeline\2.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/timeline/3.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\timeline\3.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/timeline/4.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\timeline\4.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/timeline/5.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\timeline\5.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/img/timeline/6.png
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\img\timeline\6.png
+Content Type: image/png
+
+Uri: https://sscasn.bkn.go.id/assets/js/main.js
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://sscasn.bkn.go.id/assets/pdf/BUKU PENDAFTARAN SELEKSI CPNS 2021 V.2.pdf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\pdf\BUKU PENDAFTARAN SELEKSI CPNS 2021 V.2.pdf
+Content Type: application/pdf
+
+Uri: https://sscasn.bkn.go.id/assets/pdf/BUKU PENDAFTARAN SELEKSI CPNS 2021.pdf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\pdf\BUKU PENDAFTARAN SELEKSI CPNS 2021.pdf
+Content Type: application/pdf
+
+Uri: https://sscasn.bkn.go.id/assets/pdf/BUKU PENDAFTARAN SELEKSI PPPK GURU 2021.pdf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\pdf\BUKU PENDAFTARAN SELEKSI PPPK GURU 2021.pdf
+Content Type: application/pdf
+
+Uri: https://sscasn.bkn.go.id/assets/pdf/BUKU PENDAFTARAN SELEKSI PPPK NON GURU 2021.pdf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\pdf\BUKU PENDAFTARAN SELEKSI PPPK NON GURU 2021.pdf
+Content Type: application/pdf
+
+Uri: https://sscasn.bkn.go.id/assets/pdf/SE-BKN-Nomor-5587-Tahun-2021.pdf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\pdf\SE-BKN-Nomor-5587-Tahun-2021.pdf
+Content Type: application/pdf
+
+Uri: https://sscasn.bkn.go.id/assets/vendor/icofont/fonts/icofont.woff
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\vendor\icofont\fonts\icofont.woff
+Content Type: font/woff
+
+Uri: https://sscasn.bkn.go.id/assets/vendor/icofont/fonts/icofont.woff2
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\vendor\icofont\fonts\icofont.woff2
+Content Type: font/woff2
+
+Uri: https://sscasn.bkn.go.id/assets/vendor/icofont/icofont.min.css
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\vendor\icofont\icofont.min.css
+Content Type: text/css
+
+Uri: https://sscasn.bkn.go.id/assets/vendor/php-email-form/validate.js
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\assets\vendor\php-email-form\validate.js
+Content Type: application/javascript
+
+Uri: https://sscasn.bkn.go.id/beranda
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\beranda.html
+Content Type: text/html
+
+Uri: https://sscasn.bkn.go.id/faq
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\faq.html
+Content Type: text/html
+
+Uri: https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\boxicons@2.0.7\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/boxicons@2.0.7/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\boxicons@2.0.7\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://unpkg.com/boxicons@2.0.7/fonts/boxicons.svg?
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\boxicons@2.0.7\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/boxicons@2.0.7/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\boxicons@2.0.7\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/boxicons@2.0.7/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\boxicons@2.0.7\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/boxicons@2.0.7/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\boxicons@2.0.7\fonts\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-RW5M6Y730S
+File Name: C:\Downloaded Web Sites\sscasn.bkn.go.id\gtag\js
+Content Type: application/javascript
+
